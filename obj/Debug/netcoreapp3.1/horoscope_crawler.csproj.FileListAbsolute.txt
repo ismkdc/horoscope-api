@@ -19,6 +19,4 @@ C:\Users\kundakci\source\repos\horoscope_crawler\horoscope_crawler\bin\Debug\net
 C:\Users\kundakci\source\repos\horoscope_crawler\horoscope_crawler\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\kundakci\source\repos\horoscope_crawler\horoscope_crawler\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\kundakci\source\repos\horoscope_crawler\horoscope_crawler\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\kundakci\source\repos\horoscope_crawler\horoscope_crawler\obj\Debug\netcoreapp3.1\horoscope_crawler.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\kundakci\source\repos\horoscope_crawler\horoscope_crawler\obj\Debug\netcoreapp3.1\horoscope_crawler.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\kundakci\source\repos\horoscope_crawler\horoscope_crawler\obj\Debug\netcoreapp3.1\horoscope_crawler.csproj.CopyComplete
