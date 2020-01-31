@@ -21,7 +21,7 @@ namespace horoscope_crawler.Controllers
         }
 
         [HttpGet]
-        public async Task<HoroscopeDTO> Get(string horoscope, string month, string day) =>
-            await _horoscopeService.GetDailyHoroscopeInterpretation(horoscope, month, day);
+        public async Task<IEnumerable<HoroscopeDTO>> Get() =>
+            await _horoscopeService.GetAll();
     }
 }

@@ -7,6 +7,7 @@ namespace horoscope_crawler.Models
 {
     public class HoroscopeDTO
     {
+        public string Name { get; set; }
         public string Text { get; set; }
     }
 }

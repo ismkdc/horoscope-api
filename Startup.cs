@@ -29,6 +29,8 @@ namespace horoscope_crawler
         {
             services.AddControllers();
             services.AddHttpClient();
+            services.AddMemoryCache();
+
             services.AddSingleton<HoroscopeService>();
 
             services.AddSwaggerGen(c =>
