@@ -35,7 +35,7 @@ namespace horoscope_crawler
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Horoscope API", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Horoscope API", Version = "v1.1" });
             });
         }
 
@@ -49,7 +49,7 @@ namespace horoscope_crawler
             // specifying the Swagger JSON endpoint.
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Horoscope API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Horoscope API V1.1");
             });
 
             if (env.IsDevelopment())
